@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FAST FOOD</string>
+    <string name="tituloDetalle">Detalle Sandwich</string>
+    <string name="tituloSandwich"> Sandwich </string>
+    <string name="btnSandwiches">SANDWICHES</string>
+    <string name="btnNosotros">SOBRE NOSOTROS</string>
+    <string name="btnMechada">MECHADA</string>
+    <string name="btnItaliano">ITALIANO</string>
+    <string name="btnChacarero">CHACARERO</string>
+    <string name="btnBarros">BARROS LUCO</string>
+    <string name="btnChurrasco">CHURRASCO PALTA</string>
+    <string name="nombreSandwich">IMGSANDWICH</string>
+    <string name="descripBarros">CONTIENE 400 GRAMOS DE ASIENTO POSTA O LOMO DE VACUNO, MANTEQUILLA DERRETIDA, 4 REBANADAS DE QUESO CHANCO.</string>
+    <string name="descripItaliano">CONTIENE 1 PAN ITALIANO, 3 REBANADAS JAMON, 3 REBANADAS DE QUESO, VEGETALES AL GUSTO(LECHUGA, PEPINOS, ETC.)</string>
+    <string name="descripChurrasco">CONTIENE 400 GRAMOS DE BISTEC DE POSTA ROSADA, 2 PALTAS GRANDES, TOMATE, MAYONESA QUE REPOSAN SOBRE DOS PANES FRICA.</string>
+    <string name="descripChacarero">CONTIENE 400 GRAMOS DE BISTEC DE POSTA, POROTOS VERDES, 1 TOMATE GRANDE, MANTEQUILLA, AJI Y DOS PANES FRICA.</string>
+    <string name="descripMechada">CONTIENE 1 KILO DE CARNE, TOMATE REBANADO, 200 GR MAYONESA CASERA, POROTO VERDE, CEBOLLAS CARAMELIZADAS.</string>
+    <string name="preBarros">PRECIO: $4000</string>
+    <string name="preItaliano">PRECIO: $3500</string>
+    <string name="preChurrasco">PRECIO: $3700</string>
+    <string name="preChacarero">PRECIO: $4500</string>
+    <string name="preMechada">PRECIO: $3990</string>
+    <string name="vista_nosotros">SOMOS UNA EMPRESA DE LA REGIÓN CON MÁS DE 10 AÑOS DE EXPERIENCIA REALIZANDO SANDWICHES! LOS MEJORES DE LA ZONA, SI NO CHORREA NO ES FAST FOOD!!! </string>
+</resources>
